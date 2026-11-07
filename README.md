@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Seedorf 👋
 
-<!--
-**seeedorfff/seeedorfff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I design how products feel and engineer how they work.
 
-Here are some ideas to get you started:
+Computer Science and Psychology student at Grambling State University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in visual and motion design shapes how I build software.
+
+[Portfolio](https://seedorfotchere.com) · [LinkedIn](https://www.linkedin.com/in/seedorfotchere0/) · [Email](mailto:sotchere@gsumail.gram.edu)
+
+---
+### My toolkit
+
+**Code** · Python, JavaScript, TypeScript, React, Node.js, HTML/CSS, Tailwind CSS  
+**Design** · Research, prototyping, interaction, design systems, motion  
+**Tools** · Figma, Framer, Adobe Creative Suite, Blender, Rive, Spline, Unreal Engine
+
+### Beyond the screen
+
+Motion design, mentoring designers, and contributing to NABA and ColorStack.
