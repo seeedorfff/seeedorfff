@@ -25,5 +25,5 @@ My background in visual and motion design shapes how I build software.
 ### 🌱 Beyond the screen
 
 
-Motion design, mentoring designers, and contributing to NABA and ColorStack.
+Motion design, mentoring designers, and collecting little wonders.
 
