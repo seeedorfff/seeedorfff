@@ -9,10 +9,6 @@ Computer Science and Psychology student at Grambling State University.
 
 My background in visual and motion design shapes how I build software.
 
-
-[🌐 Portfolio](https://seedorfotchere.com) · [💼 LinkedIn](https://www.linkedin.com/in/seedorfotchere0/) · [📫 Email](mailto:sotchere@gsumail.gram.edu)
-
-
 ---
 ### 🛠️ My toolkit
 
