@@ -23,3 +23,8 @@ My background in visual and motion design shapes how I build software.
 
 Motion design, mentoring designers, and collecting little wonders.
 
+
+
+### Contact
+
+Email: [seedorfotchere1000@gmail.com](mailto:seedorfotchere1000@gmail.com)
